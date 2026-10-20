@@ -1,0 +1,28 @@
+NURYADI PORTFOLIO — MULAI DI SINI
+================================
+
+1. BUKA WEBSITE:
+   Klik 2 kali index.html (Chrome atau Edge).
+
+2. EDIT GALERI:
+   Klik 2 kali manage-gallery.html.
+   - Atur urutan dengan drag mouse / tombol panah.
+   - Klik Edit untuk ubah judul, kategori, deskripsi, cover, dan tampil/sembunyikan.
+   - Klik "Unduh data galeri" untuk menyimpan hasil edit.
+   - Ganti file portfolio-data.js yang lama dengan file hasil unduhan.
+
+3. TAMBAH GAMBAR:
+   Copy foto ke assets/images/ lalu tambahkan melalui editor dengan
+   path: assets/images/NAMAFILE.webp
+   Setelah edit, unduh portfolio-data.js.
+
+4. ONLINE VIA GITHUB:
+   Karena file foto banyak, direkomendasikan gunakan GitHub Desktop.
+   Upload isi folder website (bukan file ZIP) ke repository GitHub.
+   Settings > Pages > Deploy from a branch > main > /(root) > Save.
+
+5. CATATAN:
+   Paket ini berisi 86 entri, 82 publik dan 4 draft karena hak cipta karakter.
+   Periksa kontak dan PDF resume sebelum mempublikasikannya.
+   Gambar berstatus hidden tetap bisa diakses lewat URL jika ikut diupload.
+   Detail lebih lanjut ada di README.md.
