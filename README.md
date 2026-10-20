@@ -1,4 +1,4 @@
-<img width="1456" height="978" alt="image" src="https://github.com/user-attachments/assets/2971f890-6e78-4bcb-af27-988fa0c9a099" /># Muhammad Nuryadi — Creative Portfolio 🎨
+Muhammad Nuryadi — Creative Portfolio 🎨
 
 **Graphic Designer | Textile & Vector Pattern Specialist | Apparel Designer**
 
