@@ -1,4 +1,4 @@
-# Muhammad Nuryadi — Creative Portfolio 🎨
+<img width="1456" height="978" alt="image" src="https://github.com/user-attachments/assets/2971f890-6e78-4bcb-af27-988fa0c9a099" /># Muhammad Nuryadi — Creative Portfolio 🎨
 
 **Graphic Designer | Textile & Vector Pattern Specialist | Apparel Designer**
 
@@ -72,7 +72,7 @@ Website ini juga dilengkapi dengan pengelola galeri berbasis browser untuk mempe
 
 ## 🔗 Portfolio & Contact
 
-🌐 **Website:** `https://USERNAME.github.io/portfolio-nuryadi/`
+🌐 **Website:** `https://nuryads.github.io/NYDS-PORTO/`
 
 🎨 **Behance:** https://www.behance.net/Nuryfade
 
